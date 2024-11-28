@@ -11,6 +11,3 @@ A simple JavaScript program to generate a pyramid pattern using a specified char
 2. Set the `count` variable to the number of rows in the pyramid (default is `8`).
 3. The `inverted` variable determines if the pyramid is upright or inverted (default is `true`).
 4. Run the code in a browser's developer console or Node.js environment.
-
-## License
-This project is open-source and free to use.
